@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNET projects\\PaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|d:\\dotnet projects\\paymentapi\\controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|solutionrelative:controllers\\paymentdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|d:\\dotnet projects\\paymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|solutionrelative:models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|d:\\dotnet projects\\paymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|d:\\dotnet projects\\paymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F02BEABD-368C-40A7-9840-6043B4178B00}|PaymentAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailController.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentDetailController.cs",
+              "ToolTip": "D:\\DotNET projects\\PaymentAPI\\Controllers\\PaymentDetailController.cs",
+              "RelativeToolTip": "Controllers\\PaymentDetailController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwGIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:06:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNET projects\\PaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\DotNET projects\\PaymentAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T17:35:49.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\PaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\DotNET projects\\PaymentAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T17:20:20.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "D:\\DotNET projects\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentDetailContext.cs",
+              "ToolTip": "D:\\DotNET projects\\PaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "Models\\PaymentDetailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:40:47.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
